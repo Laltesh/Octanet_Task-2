@@ -1,2 +1,3 @@
 # Octanet_Task-2
-a clone website
+A clone website name a painting seller.
+I used to design HTML and CSS.
